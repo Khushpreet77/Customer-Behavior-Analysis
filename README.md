@@ -17,4 +17,4 @@ Skills & Tools Used
 SQL, Python, Pandas, NumPy, Matplotlib, Seaborn, Power BI, Data Analysis, Data Visualization, EDA
 
 Screenshot:
-
+https://github.com/Khushpreet77/Customer-Behavior-Analysis/blob/main/Dashboard%20screenshot.jpg
